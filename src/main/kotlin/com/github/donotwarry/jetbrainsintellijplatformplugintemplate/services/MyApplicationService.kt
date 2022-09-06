@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.donotwarry.jetbrainsintellijplatformplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.donotwarry.jetbrainsintellijplatformplugintemplate.MyBundle
 
 class MyApplicationService {
 
